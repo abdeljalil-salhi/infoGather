@@ -35,5 +35,5 @@ infoGather program includes:
 # Modules Used
 PIL, phonenumbers, requests, random, string, socket, webbrowser
 
-# PS
+# Save Scan Results
 Results can be saved directly to subfolders.
