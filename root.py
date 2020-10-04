@@ -11,6 +11,7 @@ root.iconphoto(False, PhotoImage(file='icon.png'))
 root.configure(bg="black")
 root.resizable(width=False, height=False)
 
+
 #MY IP FRAME
 def myIPscan():
     res1 = requests.get("http://ip-api.com/json/")
