@@ -33,7 +33,7 @@ infoGather program includes:
     - Timezone
 
 # Modules Used
-PIL, phonenumbers, requests, random, string, socket, webbrowser
+tkinter, PIL, phonenumbers, requests, random, string, socket, webbrowser
 
 # Save Scan Results
 Results can be saved directly to subfolders.
